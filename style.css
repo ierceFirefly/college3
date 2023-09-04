@@ -1,0 +1,82 @@
+.first12{
+    background-color: darkblue;
+    padding: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    color: aliceblue;
+    width: 1200px;
+}
+span{
+    border: 20px solid #157347;
+    background-color: #157347;
+    border-radius: 20px;
+}
+span.my-link:hover{
+    border: 20px solid darkgreen;
+    background-color: darkgreen;
+    border-radius: 20px;
+
+}
+h2#my-link3:hover{
+    background-color: red;
+    color: aliceblue;
+    border: 20px solid red;
+    border-radius: 20px;
+}
+h2{
+    background-color: red;
+    color: aliceblue;
+    border: 7px solid red;
+    border-radius: 20px;
+    width: 50px;
+    
+
+}
+#id3{
+    border: 7px solid red;
+    border-radius: 20px;
+    background-color: aliceblue;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    height:80px;
+    width: 1200px;
+}
+#h42{
+    
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: black;
+    background-color: aquamarine;
+    border: 20px;
+    border-radius: 20px;
+    display: inline;
+}
+h4#my-link5:hover{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    background-color: aquamarine;
+    border: 20px;
+    border-radius: 20px;
+    display: inline;
+
+}
+.firsth3{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: center;
+    text-transform: capitalizes
+}
+.secondh3:hover{
+    font-style: italic;
+    font-family: 'Courier New', Courier, monospace;
+    border: 20px;
+    border-radius: 20px;
+    display: inline;
+    color: aliceblue;
+    background-color: black;
+    opacity: 0.5;
+    
+}
